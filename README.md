@@ -1,9 +1,9 @@
-# justin-s_portfolio
-Analytics Portfolio
+# Justin Fernando
+Data Analysis Portfolio
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Justin 👋
 
-> A [Your Profession/Area of Expertise] based in Logan Square, Chicago, passionate about [Your Interests/Skills]
+> A Data Analyst based in Logan Square, Chicago, passionate about data, Excel, automation, and music. 
 
 ## About Me
 
@@ -26,13 +26,13 @@ Analytics Portfolio
 
 ## Skills
 
-*   **Languages:** [List of programming languages]
-*   **Frameworks/Tools:** [List of frameworks and tools]
-*   **Other:** [List of other relevant skills]
+*   **Languages:** SQL, C, Python, Javascript
+*   **Frameworks/Tools:** Pandas, NumPy, Alteryx
+*   **Other:** MS Excel
 
 ## Contact
 
-*   **Email:** [Your Email Address]
-*   **LinkedIn:** [Your LinkedIn Profile URL]
-*   **Twitter:** [Your Twitter Profile URL]
+*   **Email:** justinfernando@gmail.com
+*   **LinkedIn:** [https://www.linkedin.com/in/justin-f-b92622a/](https://www.linkedin.com/in/justin-f-b92622a/)
+*   **Location Wiz:** [https://justinfernando.org]
 *   **[Optional: Personal Website]**: [Your Website URL]
