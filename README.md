@@ -11,14 +11,14 @@ Data Analysis Portfolio
 
 ## Projects
 
-*   **[Data Cleaning using SQL]**
-    *   [Using SQL to clean data for a cafe.]
-    *   [SQL]
+*   **Data Cleaning using SQL**
+    *   Using SQL to clean data for a cafe.
+    *   SQL
     *   [[Link to the project repository or live demo](https://github.com/jnandezz/Cafe_SQLDataClean)]
-*   **[Location Wiz]**
-    *   [An online game that uses Google Maps API]
-    *   [Flask, Google Maps API]
-    *   [https://justinfernando.org]
+*   **Location Wiz**
+    *   An online game that uses Google Maps API
+    *   Flask, Google Maps API
+    *   https://justinfernando.org
 *   **[Project 3 Name]**
     *   [Brief description of the project]
     *   [Technologies used]
