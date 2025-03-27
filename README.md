@@ -3,11 +3,11 @@ Data Analysis Portfolio
 
 # Hi, I'm Justin 👋
 
-> A Data Analyst based in Logan Square, Chicago, passionate about data, Excel, automation, and music. 
+> Data Analyst | Musician | Chief Co-conspirator at Bonnard's Lemon
 
 ## About Me
 
-> [A brief paragraph about your background, experience, and goals]
+> I have a decade of experience preparing, exploring, and interpreting data. I've supplied business leaders with insights to execute ad campaigns, drive efficiency, and make informed decisions. I've collaborated with teams of analysts, account executives, and marketing / media strategists.
 
 ## Projects
 
@@ -27,7 +27,7 @@ Data Analysis Portfolio
 ## Skills
 
 *   **Languages:** SQL, C, Python, Javascript
-*   **Frameworks/Tools:** Pandas, NumPy, Alteryx
+*   **Frameworks/Tools:** Pandas, Alteryx
 *   **Other:** MS Excel
 
 ## Contact
@@ -35,4 +35,4 @@ Data Analysis Portfolio
 *   **Email:** justinfernando@gmail.com
 *   **LinkedIn:** [https://www.linkedin.com/in/justin-f-b92622a/](https://www.linkedin.com/in/justin-f-b92622a/)
 *   **Location Wiz:** [https://justinfernando.org]
-*   **[Optional: Personal Website]**: [Your Website URL]
+*   **[Optional: Personal Website]**: [https://justinfernando.org]
